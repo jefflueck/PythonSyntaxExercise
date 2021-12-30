@@ -16,6 +16,7 @@ def convert_temp(unit_in, unit_out, temp):
     """
 
     # YOUR CODE HERE
+    # In  my code I did not set a check for the first values entered in as f or c. Is this needed for my program to work correctly, because I do get a conversion output.
     if unit_in == (temp - 32) * 5.09/9.0:
       return unit_in
     else:

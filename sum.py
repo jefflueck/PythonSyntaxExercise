@@ -12,6 +12,8 @@ def sum_nums(nums):
     # want you to use it. Please write this by hand.
 
     # YOUR CODE HERE
+    # This one I understand my original error after looking at solution code.
+    # In my code I forgot to set a starting value for sum.
     sum = 0
     for num in nums:
       sum = sum+num

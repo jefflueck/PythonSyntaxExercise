@@ -13,6 +13,8 @@ def count_up(start, stop):
     """
 
     # YOUR CODE HERE
+    # My original code verses this solution code had the while loop incorrectly set by syntax. Understand my error.
+    # This works as expected.
     while start <= stop:
         print(start)
         start = start + 1

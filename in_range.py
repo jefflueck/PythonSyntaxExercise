@@ -17,7 +17,7 @@ def in_range(nums, lowest, highest):
 
     # YOUR CODE HERE
     # get half of the expected output
-    # My attempt want to talk through
+    # My attempt want to talk through with mentor
     # for num in nums:
     #   if lowest == num or highest == num:
     #     print(highest and lowest)
